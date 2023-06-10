@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jamslaugh
-- 🕧 Have 7 years of experience as a Data Scientist 
+- 🕧 Have 7 years of experience in Data Science
 - 👀 I work mainly in Data Science, Machine Learning, Deep Learning and statistics
 - 🌱 I’m currently learning Deep Reinforcement Learning
 - 💻 I love coding and find it very relaxing
