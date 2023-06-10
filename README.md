@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @jamslaugh
-- 👀 I’m interested in Data Science, Machine Learning, Deep Learning and statistics
+- 👀 I work mainly in Data Science, Machine Learning, Deep Learning and statistics
 - 🌱 I’m currently learning Deep Reinforcement Learning
+- 💻 I love coding and find it very relaxing
 - 💞️ I’m looking to collaborate on ML, DL, DS
 - 📫 How to reach me gia.matrone@gmail.com
 
